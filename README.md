@@ -7,6 +7,7 @@ Java fundamentals & DSA
 HTML & CSS for web development
 
 🌱 Tech Stack:
+
 **Languages**: Java, HTML, CSS
 
 **Learning**: JavaScript, Git/GitHub, problem-solving
