@@ -7,16 +7,16 @@ Java fundamentals & DSA
 HTML & CSS for web development
 
 🌱 Tech Stack:
-Languages: Java, HTML, CSS
+**Languages**: Java, HTML, CSS
 
-Learning: JavaScript, Git/GitHub, problem-solving
+**Learning**: JavaScript, Git/GitHub, problem-solving
 
 🚀 Goals:
-Build cool web projects
+- Build cool web projects
 
-Get solid with DSA
+- Get solid with DSA
 
-Start my AI/ML journey soon!
+- Start my AI/ML journey soon!
 <!---
 Tariq-coderxd/Tariq-coderxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
